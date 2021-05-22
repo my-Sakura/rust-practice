@@ -23,8 +23,8 @@
 ## 循环语句
 ### loop
     loop 是无限循环的关键字，可以使用 break 关键字跳出循环
-    
-    ```rust
+
+    ```Rust
     let mut counter = 0;
     let result = loop { 
         counter += 1;

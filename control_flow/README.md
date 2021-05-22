@@ -24,7 +24,6 @@
 ### loop
     loop 是无限循环的关键字，可以使用 break 关键字跳出循环
 
-    ```
     let mut counter = 0;
     let result = loop { 
         counter += 1;
@@ -32,8 +31,20 @@
             break counter * 2;
         }
     };
-    ```
-    
 
 ### while
+    循环遍历数组 [1, 2, 3]
+    let x = [1, 2, 3];
+    let mut counter = 0;
+    while counter < 3 {
+        println!("index: {}, value: {}", counter, x[counter]);
+        counter += 1;
+    }
+### for-in
+    遍历数组 [1, 2, 3]
+    let x = [1, 2, 3];
+    for element in x.iter() {
+        println!("value: {}", element);
+    }
+
 

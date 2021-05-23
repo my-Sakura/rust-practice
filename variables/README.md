@@ -66,3 +66,4 @@
     let array = [1, 2, 3];
     let first = array[0];
     let second = array[1];
+    

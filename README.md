@@ -1,2 +1,12 @@
 # tour-of-the-rust
-    rust 学习笔记，之前的学习笔记要么丢失要么太乱，这一次一定要写一个自己满意的笔记
+    rust 学习笔记
+    1. install
+    2. comment
+    3. variables
+    4. function
+    5. control_flow
+    6. struct
+    7. slice
+    8. ownership
+    9. enum
+    10. match

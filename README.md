@@ -10,6 +10,8 @@
     8. ownership
     9. enum
     10. match
+    11. crate
+    12. collections
 
 # web site of rust
     1.registry

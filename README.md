@@ -10,3 +10,7 @@
     8. ownership
     9. enum
     10. match
+
+# web site of rust
+    1.registry
+    https://crates.io/
